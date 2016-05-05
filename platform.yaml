@@ -1,0 +1,21 @@
+platform:
+ "account/subscription":
+  howTo:
+   videos:
+    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
+    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
+   allArticles: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
+   articles:
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
+  troubleshooting:
+   videos:
+    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
+      title: "1- HowTo - Test video 1"
+    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
+      title: "1- HowTo - Test video 1"
+   allArticles: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
+   articles:
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
+      title: "Title"
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
