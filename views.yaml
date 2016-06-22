@@ -1,0 +1,36 @@
+views:
+ "screenbuilder/app/views":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/screenbuilder/getting-started/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/screenbuilder/troubleshooting/how-to-keep-custom-code-changes"
+    - url: "http://docs.telerik.com/platform/screenbuilder/getting-started/configure-your-data-provider"
+	- url: "http://docs.telerik.com/platform/screenbuilder/getting-started/create-and-modify-app-with-screenbuilder"
+  "screenbuilder/app/navigation":
+  howTo:
+   allArticles: ""
+   articles:
+    - url: ""
+    - url: ""
+	- url: ""
+  "screenbuilder/app/data":
+  howTo:
+   allArticles: ""
+   articles:
+    - url: ""
+    - url: ""
+	- url: ""
+  "screenbuilder/app/themes":
+  howTo:
+   allArticles: ""
+   articles:
+    - url: ""
+    - url: ""
+	- url: ""
+  "screenbuilder/app/templates":
+  howTo:
+   allArticles: ""
+   articles:
+    - url: ""
+    - url: ""
+	- url: ""
