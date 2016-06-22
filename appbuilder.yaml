@@ -1,43 +1,94 @@
 appbuilder:
  "options/iOS/Identities":
   howTo:
-   videos:
-    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
-      title: "1- HowTo - Test video 1"
-    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
-      title: "1- HowTo - Test video 1"
-   allArticles: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
+   allArticles: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/configuring-code-signing-for-ios-apps"
    articles:
-    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
-    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
-  troubleshooting:
-   videos:
-    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
-      title: "1- HowTo - Test video 1"
-    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
-      title: "1- HowTo - Test video 1"
-   allArticles: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
-   articles:
-    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
-    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
- "hybrid:options/iOS/Identities":
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/create-distribution-certificate"
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/create-development-certificate"
+	- url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/create-csr"
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/import-existing-ios-certificate"
+	- url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/add-new-certificate"
+ "options/iOS/Provisioning":
   howTo:
-   videos:
-    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
-      title: "1- HowTo - Test video 1"
-    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
-      title: "1- HowTo - Test video 1"
-   allArticles: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
+   allArticles: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/configuring-code-signing-for-ios-apps"
    articles:
-    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
-    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
-  troubleshooting:
-   videos:
-    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
-      title: "1- HowTo - Test video 1"
-    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
-      title: "1- HowTo - Test video 1"
-   allArticles: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/create-ad-hoc-provisioning-profile"
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/create-app-store-provisioning-profile"
+	- url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/register-app-id "
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/create-development-provisioning-profile"
+	- url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/create-in-house-provisioning-profile"
+ "options/android/Identities":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-android-apps/configuring-code-signing-for-android-apps"
    articles:
-    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
-    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-android-apps/create-cryptographic-identity"
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-android-apps/import-cryptographic-identity"
+	- url: "http://developer.android.com/tools/publishing/app-signing.html"
+ "options/Code Editor":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appbuilder/development-tools/using-the-ides/configuring-code-editor/configuring-code-editor"
+   articles:
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/using-the-ides/configuring-code-editor/personalizing-the-code-editor/personalizing-code-editor"
+ "options":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appbuilder/development-tools/appbuilder-clients-and-tools"
+   articles:
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/configure-reporting"
+	- url: "http://www.telerik.com/company/privacy-policy"
+	- url: "https://www.progress.com/legal/privacy-policy"
+	- url: "http://www.telerik.com/purchase/license-agreement/telerik-platform"	
+ "options/General/Application Telemetry":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appbuilder/development-tools/appbuilder-clients-and-tools"
+   articles:
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/configure-reporting"
+	- url: "http://www.telerik.com/company/privacy-policy"
+	- url: "https://www.progress.com/legal/privacy-policy"
+	- url: "http://www.telerik.com/purchase/license-agreement/telerik-platform"
+ "versioncontrol/changes":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/overview"
+   articles:
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/integrated-vc/using-appbuilder-version-control"
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/third-party-vc/using-third-party-vc"
+	- url: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/third-party-vc/configuring-third-party-vc/github-integration"
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/integrated-vc/version-control-icons"
+ "versioncontrol/history":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/integrated-vc/using-appbuilder-version-control"
+   articles:
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/integrated-vc/view-history"
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/integrated-vc/reset-repository/available-reset-operations"
+	- url: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/integrated-vc/rollback-changes"
+ "versioncontrol/conflicts":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/integrated-vc/using-appbuilder-version-control"
+   articles:
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/third-party-vc/resolve-conflicts"
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/integrated-vc/using-appbuilder-version-control"
+ "versioncontrol/branches":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/overview"
+   articles:
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/branches-vc/merge-branches"
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/branches-vc/using-branches"
+	- url: "http://docs.telerik.com/platform/appbuilder/development-tools/version-control/branches-vc/checkout-branch"
+ "hybrid:code":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appbuilder/cordova/overview"
+   articles:
+    - url: "http://docs.telerik.com/platform/appbuilder/creating-your-project/using-plugins/working-with-plugins"
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/running-apps-in-simulator/device-simulator"
+	- url: "http://docs.telerik.com/platform/appbuilder/creating-your-project/collaborating/configure-for-collaboration"
+    - url: "http://docs.telerik.com/platform/appbuilder/debugging-your-code/debugging-your-code"
+	- url: "http://docs.telerik.com/platform/appbuilder/cordova/using-plugins/working-with-plugins"
+ "native:code":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appbuilder/nativescript/index"
+   articles:
+    - url: "http://docs.telerik.com/platform/appbuilder/development-tools/using-the-ides/the-code-editor/typescript/typescript-overview"
+    - url: "http://docs.telerik.com/platform/appbuilder/nativescript/running-your-app/run-app-device"
+	- url: "http://docs.telerik.com/platform/appbuilder/nativescript/getting-started"
+    - url: "http://docs.telerik.com/platform/appbuilder/nativescript/index"
+	- url: "http://docs.telerik.com/platform/appbuilder/nativescript/clone-sample"
+ 

@@ -1,22 +1,207 @@
 bs:
- "account/subscription":
+ "data": 
   howTo:
-   videos:
-    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
-      title: "1- HowTo - Test video 1"
-    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
-      title: "1- HowTo - Test video 1"
-   allArticles: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/data/introduction"
    articles:
-    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
-    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
-  troubleshooting:
-   videos:
-    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
-      title: "1- HowTo - Test video 1"
-    - url: "https://www.youtube.com/embed/YQo6pEz72rE?rel=0"
-      title: "1- HowTo - Test video 1"
-   allArticles: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
+    - url: "http://docs.telerik.com/platform/help/services/enable/data-users-notifications-business-logic"	
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/data/relations/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/introduction"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/offline-support/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/cloud-code/cloud-code-for-data/introduction"
+ "data/types": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/data/introduction"
    articles:
-    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
-    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/code-signing"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/data/relations/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/introduction"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/offline-support/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/cloud-code/cloud-code-for-data/introduction"
+ "data/types/data-connectors":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/data-connectors/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/stored-procedures/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/data-connectors/sql/data-connectors-security"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/data-connectors/sql/data-connectors-create-content-type"
+    - url: "http://docs.telerik.com/platform/samples/platform-deliveries-hybrid-dl/"
+ "data/files": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/files/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/files/files-tutorial-device-camera"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/files/files-upload"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/files/files-download"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/offline-support/offline-files/introduction"
+ "data/files/responsive-images": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/responsive-images/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/responsive-images/responsive-images-getting-started"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/responsive-images/responsive-images-automatic-use"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/responsive-images/responsive-images-manual-use"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/responsive-images/responsive-images-parameters"
+ "data/types/permissions":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/access-control/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/roles/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/type-permissions/introduction"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/item-permissions/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/access-control-examples"
+	- url: ""	
+ "users/users/data-browser": [DISABLED]
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/users/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/social-login/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/adfs-login/introduction"
+ "users/users/data-browser": [ENABLED]
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/users/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/users-getting-started"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/social-login/introduction"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/users/users-uname-pass"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/users-register"
+ "users/users/structure":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/users/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/users-getting-started"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/data/relations/introduction"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/users/social-login/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/users-register"
+	- url: ""		
+ "users/users/permissions":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/users/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/roles/introduction"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/type-permissions/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/item-permissions/introduction"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/access-control-examples"	
+ "users/users/roles":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/users/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/roles/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/roles/roles-manage-portal"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/users/users-register"
+ "users/users/emails": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/users/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/rest/users/users-verify-account"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/users-change-password"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/users/users-recover-account"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/users-register"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/email-templates/email-notifications-use-placeholders"	
+ "users/users/email-settings": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/users/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/email-templates/email-notifications-use-placeholders"
+    - url: "http://docs.telerik.com/platform/backend-services/rest/users/users-verify-account"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/users/users-register"
+ "users/users/authentication":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/users/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/social-login/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/adfs-login/introduction"	
+ "push": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/push-getting-started"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/push-initialize-register"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/send-and-target/push-send"
+    - url: "http://docs.telerik.com/platform/samples/backend-services-push-hybrid/"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/troubleshooting/introduction"	
+ "push/push/manage":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/push-getting-started"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/push-initialize-register"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/send-and-target/push-send"
+    - url: "http://docs.telerik.com/platform/samples/backend-services-push-hybrid/"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/troubleshooting/introduction"	
+ "push/push/devices": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/rest/push-notifications/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/push-initialize-register"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/push-object-fields"
+	- url: "http://docs.telerik.com/platform/backend-services/rest/push-notifications/push-read-registration"
+ "push/push/permissions": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/send-and-target/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/push-security"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/send-and-target/push-send"
+	- url: "http://docs.telerik.com/platform/backend-services/dotnet/push-notifications/send-and-target/push-send"
+    - url: "http://docs.telerik.com/platform/backend-services/rest/push-notifications/send-and-target/push-send"
+ "push/push/settings": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/push-enabling"
+    - url: "http://docs.telerik.com/platform/appbuilder/cordova/code-signing-your-app/configuring-code-signing-for-ios-apps/create-development-certificate"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/push-notifications/push-getting-started"
+ "push/emails": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/email-templates/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/email-templates/email-notifications-manage-templates-portal"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/email-templates/email-notifications-getting-started"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/email-templates/email-notifications-use-placeholders"
+    - url: "http://docs.telerik.com/platform/backend-services/rest/email-templates/email-notifications-send"
+	- url: "http://docs.telerik.com/platform/backend-services/rest/email-templates/email-notifications-send-cloud-code"	
+ "cloud-code": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/cloud-code/cloud-code-for-data/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/cloud-code/cloud-functions/introduction"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/stored-procedures/introduction"
+ "cloud-code/cloud-code": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/cloud-code/cloud-code-for-data/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/cloud-code/cloud-functions/introduction"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/stored-procedures/introduction"
+ "cloud-code/cloud-code/scheduledJobs": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/scheduled-jobs/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/scheduled-jobs/scheduled-jobs-getting-started"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/scheduled-jobs/scheduled-jobs-create"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/scheduled-jobs/scheduled-jobs-enable-disable"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/scheduled-jobs/scheduled-jobs-read"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/scheduled-jobs/scheduled-jobs-limitations"
+ "cloud-code/cloud-code/logs": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/cloud-code/debugging/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/cloud-code/debugging/log-debug-data"
+    - url: "http://docs.telerik.com/platform/backend-services/rest/server-side-logic/cloud-code/debugging/managing-cloud-code-logs"
+ "cloud-code/cloud-code/permissions": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/what-are-telerik-backend-services"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/business-logic-permissions/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/stored-procedures/stored-procedures-security"
+	- url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/cloud-code/cloud-functions/cloud-functions-security"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/roles/introduction"
+ "cloud-code/cloud-code/settings": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/security/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/cloud-code/cloud-code-for-data/introduction"
+    - url: "http://docs.telerik.com/platform/backend-services/javascript/server-side-logic/cloud-code/debugging/log-debug-data"
+	- url: "http://docs.telerik.com/platform/help/apps/app-management/app-settings"
+    - url: "http://docs.telerik.com/platform/help/apps/app-management/manage-master-key"
+	- url: "http://docs.telerik.com/platform/help/apps/app-management/manage-access-tokens"			
