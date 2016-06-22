@@ -13,7 +13,7 @@ platform:
     - url: "http://docs.telerik.com/platform/help/getting-started/manage-subscription"
     - url: "http://docs.telerik.com/platform/help/accounts/members-management/members-roles"
     - url: "http://docs.telerik.com/platform/help/getting-started/run-demo-app"
-    - url: "http://docs.telerik.com/platform/help/app-migration"
+    - url: "http://docs.telerik.com/platform/help/getting-started/hybrid-or-native"
     - url: "http://docs.telerik.com/platform/appmanager/getting-started/"
 "account/apps":
   howTo:
@@ -22,7 +22,7 @@ platform:
     - url: "http://docs.telerik.com/platform/help/getting-started/manage-subscription"
     - url: "http://docs.telerik.com/platform/help/accounts/members-management/members-roles"
     - url: "http://docs.telerik.com/platform/help/getting-started/run-demo-app"
-    - url: "http://docs.telerik.com/platform/help/app-migration"
+    - url: "http://docs.telerik.com/platform/help/apps/export-app"
     - url: "http://docs.telerik.com/platform/appmanager/getting-started/"	
 "account/create-app":
   howTo:
