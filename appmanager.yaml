@@ -1,5 +1,5 @@
 appmanager:
-  "appmanager":
+ "appmanager":
   howTo:
    allArticles: "http://docs.telerik.com/platform/appmanager/getting-started/introduction"
    articles:
@@ -7,7 +7,7 @@ appmanager:
     - url: "http://docs.telerik.com/platform/appmanager/getting-started/publishing-your-first-app"
     - url: "http://docs.telerik.com/platform/appmanager/getting-started/distributing-your-first-app"
     - url: "http://docs.telerik.com/platform/appmanager/troubleshooting"
-"appmanager/apps/details":
+ "appmanager/apps/details":
   howTo:
    allArticles: "http://docs.telerik.com/platform/appmanager/getting-started/distributing-your-first-app"
    articles:
