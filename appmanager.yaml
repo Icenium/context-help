@@ -1,0 +1,30 @@
+appmanager:
+  "appmanager":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appmanager/getting-started/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/appmanager/getting-started/getting-appmanager-mobile-app"
+    - url: "http://docs.telerik.com/platform/appmanager/getting-started/publishing-your-first-app"
+    - url: "http://docs.telerik.com/platform/appmanager/getting-started/distributing-your-first-app"
+    - url: "http://docs.telerik.com/platform/appmanager/troubleshooting"
+"appmanager/apps/details":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appmanager/getting-started/distributing-your-first-app"
+   articles:
+    - url: "http://docs.telerik.com/platform/appmanager/appmanager-portal/managing-apps/publishing-apps/private-vs-public-distribution"
+    - url: "http://docs.telerik.com/platform/appmanager/appmanager-portal/managing-apps/publishing-apps/resigning-wp-apps"
+    - url: "http://docs.telerik.com/platform/appmanager/appmanager-portal/managing-apps/publishing-apps/publishing-app"
+    - url: "http://docs.telerik.com/platform/appmanager/appmanager-portal/managing-apps/publishing-apps/publishing-ios-apps/publishing-ios-apps"
+ "appmanager/apps": 
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appmanager/getting-started/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/appmanager/getting-started/getting-appmanager-mobile-app"
+    - url: "http://docs.telerik.com/platform/appmanager/getting-started/publishing-your-first-app"
+    - url: "http://docs.telerik.com/platform/appmanager/getting-started/distributing-your-first-app"
+    - url: "http://docs.telerik.com/platform/appmanager/troubleshooting"
+ "appmanager/settings/emailTemplates":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/appmanager/appmanager-portal/settings/general-settings "
+   articles:
+    - url: "http://docs.telerik.com/platform/appmanager/appmanager-portal/settings/email-templates"
