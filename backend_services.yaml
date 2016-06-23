@@ -48,14 +48,7 @@ bs:
     - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/type-permissions/introduction"
     - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/item-permissions/introduction"
     - url: "http://docs.telerik.com/platform/backend-services/javascript/access-control/access-control-examples"
-	- url: ""	
- "users/users/data-browser": [DISABLED]
-  howTo:
-   allArticles: "http://docs.telerik.com/platform/backend-services/javascript/users/introduction"
-   articles:
-    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/social-login/introduction"
-    - url: "http://docs.telerik.com/platform/backend-services/javascript/users/adfs-login/introduction"
- "users/users/data-browser": [ENABLED]
+ "users/users/data-browser":
   howTo:
    allArticles: "http://docs.telerik.com/platform/backend-services/javascript/users/introduction"
    articles:
