@@ -6,6 +6,8 @@ platform:
     - url: "http://docs.telerik.com/platform/help/licensing/manage-subscription"
     - url: "http://docs.telerik.com/platform/help/licensing/manage-licensed-developers"
     - url: "https://www.telerik.com/purchase/platform"
+      title: Telerik Platform Pricing Page
+      description: "Learn more about the available subscription plans for the Telerik Platform."
  "account/workspaces":
    howTo:
     allArticles: "http://docs.telerik.com/platform/help/getting-started/introduction"
