@@ -5,12 +5,12 @@ analytics:
    articles:
     - url: "http://docs.telerik.com/platform/analytics/getting-started/your-application"
     - url: "http://docs.telerik.com/platform/analytics/getting-started/your-first-data"
-    - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts" 
+    - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
  "managedashboards":
    howTo:
     videos:
-     - url: "https://youtu.be/16InXe7n0CU"
-       title: "Telerik Analytics - Quick Introduction To Custom Dashboards"	    
+     - url: "https://www.youtube.com/embed/16InXe7n0CU?rel=0"
+       title: "Telerik Analytics - Quick Introduction To Custom Dashboards"
     allArticles: "http://docs.telerik.com/platform/analytics/client/dashboards/overview"
     articles:
      - url: "http://docs.telerik.com/platform/analytics/client/dashboards/custom-dashboards"
@@ -25,7 +25,7 @@ analytics:
      - url: "http://docs.telerik.com/platform/analytics/client/engagement/users"
      - url: "http://docs.telerik.com/platform/analytics/integration/installations/introduction"
      - url: "http://docs.telerik.com/platform/analytics/integration/functionality/data-origin"
-     - url: "http://docs.telerik.com/platform/analytics/client/engagement/cohorts" 
+     - url: "http://docs.telerik.com/platform/analytics/client/engagement/cohorts"
  "location":
    howTo:
     allArticles: "http://docs.telerik.com/platform/analytics/client/widgets/introduction"
@@ -35,8 +35,8 @@ analytics:
  "cohorts":
    howTo:
     videos:
-     - url: "https://youtu.be/-PSe7fYVrlY"
-       title: "Telerik Analytics - Quick Introduction To User Cohorts"	 
+     - url: "https://www.youtube.com/embed/-PSe7fYVrlY?rel=0"
+       title: "Telerik Analytics - Quick Introduction To User Cohorts"
     allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
     articles:
      - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
@@ -50,8 +50,8 @@ analytics:
  "featureuse":
    howTo:
     videos:
-     - url: "https://youtu.be/iT4B6lrt3U8"     
-     title: "Telerik Analytics - How To See Application Feature Usage "
+     - url: "https://www.youtube.com/embed/iT4B6lrt3U8?rel=0"
+     title: "Telerik Analytics - How To See Application Feature Usage"
     allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
     articles:
      - url: "http://docs.telerik.com/platform/analytics/client/feature-reports/feature-use"
@@ -59,8 +59,8 @@ analytics:
  "featuretiming":
    howTo:
     videos:
-     - url: "https://youtu.be/0axfoeu3tXw"    
-       title: "Telerik Analytics - How To Measure Application Performance"	 
+     - url: "https://www.youtube.com/embed/0axfoeu3tXw?rel=0"
+       title: "Telerik Analytics - How To Measure Application Performance"
     allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
     articles:
      - url: "http://docs.telerik.com/platform/analytics/client/feature-reports/feature-timing"
@@ -69,7 +69,7 @@ analytics:
  "featurevalue":
    howTo:
     videos:
-     - url: "https://youtu.be/0axfoeu3tXw"      
+     - url: "https://www.youtube.com/embed/0axfoeu3tXw?rel=0"
     allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
     articles:
      - url: "http://docs.telerik.com/platform/analytics/client/feature-reports/feature-value"
@@ -78,12 +78,12 @@ analytics:
  "datastudies":
    howTo:
     videos:
-     - url: "https://youtu.be/Jc0U35R0EdM"   
+     - url: "https://www.youtube.com/embed/Jc0U35R0EdM?rel=0"
      title: "Telerik Analytics - Quick Introduction to Data Studies"
     allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
     articles:
      - url: "http://docs.telerik.com/platform/analytics/client/data/data-studies"
-     - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts" 
+     - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
  "studyresults":
    howTo:
     allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
@@ -98,7 +98,7 @@ analytics:
      - url: "http://docs.telerik.com/platform/analytics/client/app-health/exceptions"
      - url: "http://docs.telerik.com/platform/analytics/client/app-health/session-details"
      - url: "http://docs.telerik.com/platform/analytics/client/app-health/exception-lifecycle"
-     - url: "http://docs.telerik.com/platform/analytics/client/app-health/exception-details" 		 
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/exception-details"
 "exceptions":
    howTo:
     allArticles: "http://docs.telerik.com/platform/analytics/client/app-health/understanding-exceptions"
@@ -126,7 +126,7 @@ analytics:
     allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
     articles:
      - url: "http://docs.telerik.com/platform/analytics/client/settings/options"
-     - url: "http://docs.telerik.com/platform/analytics/client/data/display-modes"	 
+     - url: "http://docs.telerik.com/platform/analytics/client/data/display-modes"
 "filters":
    howTo:
     allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
