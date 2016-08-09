@@ -1,0 +1,134 @@
+analytics:
+ "sdk":
+  howTo:
+   allArticles: "http://docs.telerik.com/platform/analytics/getting-started/introduction"
+   articles:
+    - url: "http://docs.telerik.com/platform/analytics/getting-started/your-application"
+    - url: "http://docs.telerik.com/platform/analytics/getting-started/your-first-data"
+    - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
+ "managedashboards":
+   howTo:
+    videos:
+     - url: "https://www.youtube.com/embed/16InXe7n0CU?rel=0"
+       title: "Telerik Analytics - Quick Introduction To Custom Dashboards"
+    allArticles: "http://docs.telerik.com/platform/analytics/client/dashboards/overview"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/dashboards/custom-dashboards"
+     - url: "http://docs.telerik.com/platform/analytics/client/dashboards/account-dashboards"
+     - url: "http://docs.telerik.com/platform/analytics/client/dashboards/managing-dashboards"
+     - url: "http://docs.telerik.com/platform/analytics/client/dashboards/sharing-dashboards"
+ "users":
+   howTo:
+    allArticles: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
+     - url: "http://docs.telerik.com/platform/analytics/client/engagement/users"
+     - url: "http://docs.telerik.com/platform/analytics/integration/installations/introduction"
+     - url: "http://docs.telerik.com/platform/analytics/integration/functionality/data-origin"
+     - url: "http://docs.telerik.com/platform/analytics/client/engagement/cohorts"
+ "location":
+   howTo:
+    allArticles: "http://docs.telerik.com/platform/analytics/client/widgets/introduction"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/widgets/geo-widget"
+     - url: "http://docs.telerik.com/platform/analytics/integration/functionality/monitor-settings"
+ "cohorts":
+   howTo:
+    videos:
+     - url: "https://www.youtube.com/embed/-PSe7fYVrlY?rel=0"
+       title: "Telerik Analytics - Quick Introduction To User Cohorts"
+    allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
+     - url: "http://docs.telerik.com/platform/analytics/client/engagement/cohorts"
+ "environment":
+   howTo:
+    allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/engagement/environment"
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/session-details"
+ "featureuse":
+   howTo:
+    videos:
+     - url: "https://www.youtube.com/embed/iT4B6lrt3U8?rel=0"
+       title: "Telerik Analytics - How To See Application Feature Usage"
+    allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/feature-reports/feature-use"
+     - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
+ "featuretiming":
+   howTo:
+    videos:
+     - url: "https://www.youtube.com/embed/0axfoeu3tXw?rel=0"
+       title: "Telerik Analytics - How To Measure Application Performance"
+    allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/feature-reports/feature-timing"
+     - url: "http://docs.telerik.com/platform/analytics/client/data/configuring-data-intervals"
+     - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
+ "featurevalue":
+   howTo:
+    videos:
+     - url: "https://www.youtube.com/embed/0axfoeu3tXw?rel=0"
+    allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/feature-reports/feature-value"
+     - url: "http://docs.telerik.com/platform/analytics/client/data/configuring-data-intervals"
+     - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
+ "datastudies":
+   howTo:
+    videos:
+     - url: "https://www.youtube.com/embed/Jc0U35R0EdM?rel=0"
+       title: "Telerik Analytics - Quick Introduction to Data Studies"
+    allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/data/data-studies"
+     - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
+ "studyresults":
+   howTo:
+    allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/data/data-studies"
+     - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
+ "healthoverview":
+   howTo:
+    allArticles: "http://docs.telerik.com/platform/analytics/client/app-health/understanding-exceptions"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/app-health-overview"
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/exceptions"
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/session-details"
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/exception-lifecycle"
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/exception-details"
+"exceptions":
+   howTo:
+    allArticles: "http://docs.telerik.com/platform/analytics/client/app-health/understanding-exceptions"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/exceptions"
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/exception-lifecycle"
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/exception-details"
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/session-details"
+"live":
+   howTo:
+    allArticles: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/getting-started/your-first-data"
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/live"
+     - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
+"sessions":
+   howTo:
+    allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/app-health/sessions"
+     - url: "http://docs.telerik.com/platform/analytics/client/data/locating-specific-sessions"
+     - url: "http://docs.telerik.com/platform/analytics/getting-started/analytics-concepts"
+"options":
+   howTo:
+    allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/settings/options"
+     - url: "http://docs.telerik.com/platform/analytics/client/data/display-modes"
+"filters":
+   howTo:
+    allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
+    articles:
+     - url: "http://docs.telerik.com/platform/analytics/client/settings/project-filters"
