@@ -51,7 +51,7 @@ analytics:
    howTo:
     videos:
      - url: "https://www.youtube.com/embed/iT4B6lrt3U8?rel=0"
-     title: "Telerik Analytics - How To See Application Feature Usage"
+       title: "Telerik Analytics - How To See Application Feature Usage"
     allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
     articles:
      - url: "http://docs.telerik.com/platform/analytics/client/feature-reports/feature-use"
@@ -79,7 +79,7 @@ analytics:
    howTo:
     videos:
      - url: "https://www.youtube.com/embed/Jc0U35R0EdM?rel=0"
-     title: "Telerik Analytics - Quick Introduction to Data Studies"
+       title: "Telerik Analytics - Quick Introduction to Data Studies"
     allArticles: "http://docs.telerik.com/platform/analytics/client/introduction"
     articles:
      - url: "http://docs.telerik.com/platform/analytics/client/data/data-studies"
